@@ -2,7 +2,7 @@
 
 Repositório do site do evento Mulheres Tech Day.
 
-**Para contribuições: **
+**Para contribuições:**
 
 * Façam um fork neste repositório. 
 * Façam suas alterações em sua cópia. 
