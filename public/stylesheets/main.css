@@ -1,0 +1,19 @@
+body {
+  background: #532F8C;
+}
+
+footer {
+  color: white;
+  font-size: smaller;
+  padding: 1% 10%;
+}
+
+footer h2 {
+  font-size: small;
+}
+
+.jumbotron {
+  background: #532F8C;
+  color: white;
+  padding-bottom: 80px;
+}
