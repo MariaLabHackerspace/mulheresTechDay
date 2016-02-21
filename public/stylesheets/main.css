@@ -12,6 +12,15 @@ footer h2 {
   font-size: small;
 }
 
+footer a {
+	color: #fff;
+}
+
+footer a:hover {
+	color: pink;
+}
+
+
 .jumbotron {
   background: #532F8C;
   color: white;
