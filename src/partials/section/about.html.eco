@@ -1,6 +1,13 @@
 <h2 class="section-title"><%= @labels['about'] %></h2>
-<p itemprop="description">So you want to organize a conference? That's pretty awesome! But we know that you don't have time to create the website, since you have to worry about contacting sponsors, chossing the right place, buying airplane tickets for speakers and many other things.</p>
-
-<p>That's why we created this project! <a href="https://github.com/braziljs/conf-boilerplate">Conf Boilerplate</a> is an iniciative of <a href="http://braziljs.org">BrazilJS Foundation</a> that provides a simple structure built on top of Docpad, a static generator in NodeJS, with all the things you need to create a event. We also provide a responsive template with i18n!</p>
-
-<p>This is just a live demo, check our <a href="https://github.com/braziljs/conf-boilerplate">repository on Github</a> for more details =D</p>
+<p itemprop="description">
+	O Mulheres Tech Day é um evento de tecnologia voltado para o público feminino de todas as idades. Apesar de a programação ser pensada para  as mulheres, homens são bem-vindos. 
+</p>
+<p itemprop="description">
+	Durante um dia inteiro de atividades, meninas, adolescentes e mulheres poderão participar de palestras e workshops, e confraternizar com amigos e familiares em um belo jardim, onde haverá música e foodtrucks cuidando da diversão.
+</p>
+<p itemprop="description">
+	Organizado pelas iniciativas vencedoras da segunda edição do Prêmio Mulheres Tech em Sampa - Maria Lab, Women Up Games, Pólen, Programaria, PyLadies e Academia Lovelace -, pela Secretaria Municipal de Políticas para as Mulheres e pelo Tech Sampa, o evento tem como objetivo mostrar o trabalho das mulheres na área de tecnologia e promover a discussão sobre a importância da participação feminina na área.
+</p>
+<p itemprop="description">
+	O Mulheres Tech Day conta com o apoio dos realizadores do Prêmio Mulheres Tech em Sampa - Rede Mulher Empreendedora e Google for Entrepreneurs - e da Springpoint.
+</p>

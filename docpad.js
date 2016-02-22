@@ -7,34 +7,34 @@ module.exports = {
 
     // Conference info
     conf: {
-      name: "Conference name",
+      name: "Mulheres Tech Day",
       description: "Conference description",
-      date: "November 15",
+      date: "05 de Março de 2016",
       // If your event is free, just comment this line
-      price: "$100",
-      venue: "Coco Bongo",
-      address: "Boulevard Kukulcan, 30",
-      city: "Cancún",
-      state: "Quintana"
+      price: "entrada franca",
+      venue: "Springpoint",
+      address: "Rua Bahia, 1096",
+      city: "São Paulo",
+      state: "SP"
     },
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    callToAction: {
-        text: "Register now!",
-        link: "http://eventick.com.br"
-    },
+    // callToAction: {
+    //     text: "Inscreva-se!",
+    //     link: "http://eventick.com.br"
+    // },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     forkButton: {
-        repository: "https://github.com/braziljs/conf-boilerplate"
+        repository: "https://github.com/MariaLabHackerspace/mulheresTechDay"
     },
 
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
-      googleanalytics: "UA-33656081-1"
+      url: "http://mulherestechday.com.br/",
+      googleanalytics: "UA-74153635-1"
     },
 
     // Active sections on the website
@@ -43,22 +43,24 @@ module.exports = {
     sections: [
       'about',
       'location',
-      'speakers',
-      'schedule',
+      //'speakers',
+      //'schedule',
       'sponsors',
-      'partners'
+      'partners',
+      'by'
       // 'contact'
     ],
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
-      location: "Location",
-      speakers: "Speakers",
-      schedule: "Schedule",
-      sponsors: "Sponsors",
-      partners: "Partners",
-      contact: "Contact"
+      about: "Sobre",
+      location: "Local",
+      //speakers: "Palestrantes",
+      //schedule: "Agenda",
+      sponsors: "Patrocínio",
+      partners: "Parceiros",
+      by: "Organizado por"
+      //contact: "Contato"
     },
 
     // The entire schedule
@@ -170,18 +172,73 @@ module.exports = {
     // List of Sponsors
     sponsors: [
       {
-        name: "Eventick",
-        logo: "themes/yellow-swan/img/sponsor.png",
-        url: "http://eventick.com.br"
+        name: "Prêmio Mulheres Tech em Sampa",
+        logo: "themes/yellow-swan/img/tech-sampa.png",
+        url: "http://mulherestechemsampa.com.br/"
+      },
+      {
+        name: "Rede Mulher Empreendedora",
+        logo: "themes/yellow-swan/img/rede-mulher.png",
+        url: "http://www.redemulherempreendedora.com.br/"
+      }
+      ,
+      {
+        name: "Google for Entrepreneurs",
+        logo: "themes/yellow-swan/img/google.png",
+        url: "https://www.googleforentrepreneurs.com/"
       }
     ],
 
     // List of Partners
     partners: [
       {
-        name: "BrazilJS",
-        logo: "themes/yellow-swan/img/partner.png",
-        url: "http://braziljs.org"
+        name: "Springpoint",
+        logo: "themes/yellow-swan/img/springpoint.png",
+        url: "http://www.springpoint.com.br/"
+      }
+    ],
+
+    // List of organizers
+    by: [
+      {
+        name: "Academia Lovelace",
+        logo: "themes/yellow-swan/img/academia-lovelace.png",
+        url: "https://www.facebook.com/academialovelace/"
+      },
+      {
+        name: "Marialab Hackerspace",
+        logo: "themes/yellow-swan/img/marialab.png",
+        url: "http://www.marialab.com.br/"
+      },
+      {
+        name: "Saga Pólen",
+        logo: "themes/yellow-swan/img/saga-polen.png",
+        url: "http://www.sagapolen.com.br/"
+      },
+      {
+        name: "Programaria",
+        logo: "themes/yellow-swan/img/programaria.png",
+        url: "http://www.programaria.org/"
+      },
+      {
+        name: "PyLadies",
+        logo: "themes/yellow-swan/img/pyladies.png",
+        url: "http://www.meetup.com/PyLadiesSP/"
+      },
+      {
+        name: "Secretaria Municipal de Políticas para as Mulheres",
+        logo: "themes/yellow-swan/img/prefeitura-sp-politicas-mulheres.png",
+        url: "http://www.prefeitura.sp.gov.br/cidade/secretarias/politicas_para_as_mulheres/"
+      },
+      {
+        name: "SP Negócios",
+        logo: "themes/yellow-swan/img/sp-negocios.png",
+        url: "http://www.spnegocios.com/"
+      },
+      {
+        name: "Women Up Games",
+        logo: "themes/yellow-swan/img/wup.png",
+        url: "http://www.womenupgames.com/"
       }
     ],
 
