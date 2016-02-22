@@ -1,1 +1,1 @@
-web: node docpad.js
+web: docpad run
