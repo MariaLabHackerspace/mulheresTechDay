@@ -1,1 +1,1 @@
-web: node out/index.html
+web: node docpad.js

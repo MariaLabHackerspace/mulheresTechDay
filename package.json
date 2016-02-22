@@ -1,4 +1,7 @@
 {
+  "name": "mulheres-tech-day",
+  "version": "1.0.0",
+  "description": "Site do evento Mulheres Tech Day",
   "private": true,
   "scripts": {
     "deploy": "docpad deploy-ghpages --env static",
@@ -13,4 +16,15 @@
     "docpad-plugin-marked": "^2.3.0",
     "docpad-plugin-partials": "^2.9.2"
   }
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MariaLabHackerspace/mulheresTechDay"
+  },
+  "keywords": [
+    "mulheres",
+    "tech",
+    "day",
+    "sampa"
+  ],
+  "license": "MIT"
 }
