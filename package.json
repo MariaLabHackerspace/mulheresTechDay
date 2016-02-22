@@ -16,6 +16,9 @@
     "docpad-plugin-marked": "^2.3.0",
     "docpad-plugin-partials": "^2.9.2"
   },
+  "engines": {
+    "node": "0.12.7"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/MariaLabHackerspace/mulheresTechDay"
