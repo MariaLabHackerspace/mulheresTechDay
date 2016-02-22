@@ -19,7 +19,7 @@
         <% end %>
 
         <% if @callToAction: %>
-          <a href="<%= @callToAction.link %>" class="call-action-link" title="<%= @callToAction.text %>"><%= @callToAction.text %></a>
+          <a href="<%= @callToAction.link %>" class="call-action-link" title="<%= @callToAction.text %>" target="_blank"><%= @callToAction.text %></a>
         <% end %>
       </div>
     <% end %>

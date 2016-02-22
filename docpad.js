@@ -20,10 +20,10 @@ module.exports = {
 
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
-    // callToAction: {
-    //     text: "Inscreva-se!",
-    //     link: "http://eventick.com.br"
-    // },
+    callToAction: {
+        text: "Inscreva-se!",
+        link: "https://www.eventbrite.com.br/e/mulheres-tech-day-tickets-22072708064"
+    },
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
     forkButton: {
@@ -173,8 +173,13 @@ module.exports = {
     sponsors: [
       {
         name: "Prêmio Mulheres Tech em Sampa",
-        logo: "themes/yellow-swan/img/tech-sampa.png",
+        logo: "themes/yellow-swan/img/premio-tech-sampa.png",
         url: "http://mulherestechemsampa.com.br/"
+      },
+      {
+        name: "Tech Sampa",
+        logo: "themes/yellow-swan/img/tech-sampa.png",
+        url: "https://www.facebook.com/techsampa"
       },
       {
         name: "Rede Mulher Empreendedora",
