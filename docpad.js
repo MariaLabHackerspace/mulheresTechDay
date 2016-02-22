@@ -33,7 +33,7 @@ module.exports = {
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://mulherestechday.com.br/",
+      url: "http://mulherestechday.com.br",
       googleanalytics: "UA-74153635-1"
     },
 
