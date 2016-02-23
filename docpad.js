@@ -180,16 +180,16 @@ module.exports = {
       },
       {
         name: "Vanessa Tonini",
-        //photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/yellow-swan/img/vanessa.jpg",
         bio: "Agile Coach na Lambda3. Voluntária na Marialab",
         company: "Marialab",
-        // link: {
-        //   href: "http://github.com/stevie",
-        //   text: "@stevie"
-        // },
+        link: {
+          href: "http://github.com/vanessametonini",
+          text: "@vanessametonini"
+        },
         presentation: {
           title: "Workshop de Web design",
-          description: "[Sala 3T] O que é? E como ingressar na carreira. Duração: 2hs.",
+          description: "[Sala 3T] O que é? Como ingressar na carreira? Como montar meu site? Duração: 2hs.",
           time: "15h00"
         }
       },
