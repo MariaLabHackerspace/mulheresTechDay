@@ -165,7 +165,7 @@ module.exports = {
       },
       {
         name: "Bi Aguilart",
-        //photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/yellow-swan/img/bi-aguilart.jpg",
         bio: "Ilustradora em parceria com a Women Up Games.",
         company: "Women Up Games",
         // link: {
@@ -173,7 +173,7 @@ module.exports = {
         //   text: "@stevie"
         // },
         presentation: {
-          title: "Ilustração de Games",
+          title: "Ilustração para Games",
           description: "[Sala 1T] #Empoderadas é o nome desse workshop. Personagens femininas de games que foram criadas de forma sexualizada ou como \"donzelas\" serão desenhadas e transformadas, pela artista e ilustradora Bi Aguilart, em figuras humanizadas e empoderadas. Duração: 1h 30m.",
           time: "15h00"
         }
