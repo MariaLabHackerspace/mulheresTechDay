@@ -43,7 +43,7 @@ module.exports = {
     sections: [
       'about',
       'location',
-      //'speakers',
+      'speakers',
       'schedule',
       'sponsors',
       'partners',
@@ -55,7 +55,7 @@ module.exports = {
     labels: {
       about: "Sobre",
       location: "Local",
-      //speakers: "Palestrantes",
+      speakers: "Palestrantes",
       schedule: "Agenda",
       sponsors: "Patrocínio",
       partners: "Parceiros",
@@ -66,106 +66,185 @@ module.exports = {
     // The entire schedule
     schedule: [
       {
-        name: "Check-in / Breakfast",
+        name: "Credenciamento",
         time: "9h00"
       },
       {
-        name: "Linus Torvalds",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Linux Foundation",
-        link: {
-          href: "http://twitter.com/linus",
-          text: "@linus"
-        },
+        name: "Denise Motta Dau",
+        photo: "themes/yellow-swan/img/denise.jpg",
+        bio: "Secretaria Denise Motta Dau e representantes dos grupos vencedores do Prêmio Mulheres Tech em Sampa",
+        company: "Secretaria de Políticas para Mulheres",
+        // link: {
+        //   href: "http://twitter.com/linus",
+        //   text: "@linus"
+        // },
         presentation: {
-          title: "Digging into a Linux Kernel",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "10h00"
+          title: "Palestra de abertura",
+          description: "[Jardim] Apresentação dos projetos vencedores do Prêmio.",
+          time: "09h30"
         }
       },
       {
-        name: "Bill Gates",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Microsoft",
-        link: {
-          href: "http://github.com/billy95",
-          text: "@billy95"
-        },
+        name: "Gedeane Kenshima",
+        //photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "",
+        company: "",
+        // link: {
+        //   href: "http://github.com/billy95",
+        //   text: "@billy95"
+        // },
         presentation: {
-          title: "Introducing Windows 12",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          title: "Arduíno para meninas",
+          description: "[Sala 3T] Workshop de arduíno. Duração: 1h 30m.",
+          time: "10h30"
+        }
+      },
+      {
+        name: "Priscila Zillo",
+        photo: "themes/yellow-swan/img/priscila.jpg",
+        bio: "",
+        company: "",
+        // link: {
+        //   href: "http://github.com/billy95",
+        //   text: "@billy95"
+        // },
+        presentation: {
+          title: "Tecnologia e mudanças na organização do trabalho",
+          description: "[Sala 1A] Duração: 1h.",
+          time: "10h30"
+        }
+      },
+      {
+        name: "Amanda Pinheiro",
+        photo: "themes/yellow-swan/img/amanda.jpg",
+        bio: "",
+        company: "",
+        // link: {
+        //   href: "http://github.com/billy95",
+        //   text: "@billy95"
+        // },
+        presentation: {
+          title: "Tecnologia e empreendedorismo",
+          description: "[Sala 1T] Como unir as duas coisas para ter sucesso? Duração: 1h.",
+          time: "11h30"
+        }
+      },
+      {
+        name: "Malu Andrade",
+        //photo: "themes/yellow-swan/img/amanda.jpg",
+        bio: "",
+        company: "SP Cine (WUG)",
+        // link: {
+        //   href: "http://github.com/billy95",
+        //   text: "@billy95"
+        // },
+        presentation: {
+          title: "Políticas públicas e gênero feminino nos games",
+          description: "[Sala 1A] Como unir as duas coisas para ter sucesso? Duração: 30m.",
           time: "11h00"
         }
       },
       {
-        name: "Lunch",
+        name: "Almoço",
         time: "12h00"
       },
       {
-        name: "Chuck Norris",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Delta Command",
-        link: {
-          href: "http://twitter.com/littlechuck",
-          text: "@littlechuck"
-        },
+        name: "Ariane Parra",
+        //photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "",
+        company: "Women Up Games",
+        // link: {
+        //   href: "http://twitter.com/littlechuck",
+        //   text: "@littlechuck"
+        // },
         presentation: {
-          title: "How to kill a elephant with one finger",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "13h00"
+          title: "Competição de Games (WUP)",
+          description: "[Sala 2T] Duração: 1h.",
+          time: "13h30"
         }
       },
       {
-        name: "Steve Jobs",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://github.com/stevie",
-          text: "@stevie"
-        },
+        name: "",
+        //photo: "themes/yellow-swan/img/speaker.jpg",
+        //bio: "",
+        company: "Women Up Games",
+        // link: {
+        //   href: "http://github.com/stevie",
+        //   text: "@stevie"
+        // },
         presentation: {
-          title: "Presenting iPad",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "14h00"
+          title: "Ilustração de Games",
+          description: "[Sala 1T] Duração: 1h 30m.",
+          time: "15h00"
+        }
+      },
+      {
+        name: "Vanessa Tonini",
+        //photo: "themes/yellow-swan/img/speaker.jpg",
+        bio: "Agile Coach na Lambda3. Voluntária na Marialab",
+        company: "Marialab",
+        // link: {
+        //   href: "http://github.com/stevie",
+        //   text: "@stevie"
+        // },
+        presentation: {
+          title: "Workshop de Web design",
+          description: "[Sala 3T] O que é? E como ingressar na carreira. Duração: 2hs.",
+          time: "15h00"
+        }
+      },
+      {
+        name: "Tatiana Barros",
+        photo: "themes/yellow-swan/img/taty-barros.jpg",
+        //bio: "",
+        company: "Saga Pólen",
+        // link: {
+        //   href: "http://github.com/stevie",
+        //   text: "@stevie"
+        // },
+        presentation: {
+          title: "Workshop de Web design",
+          description: "[Sala 1A] Tatiana Barros. Duração: 30m.",
+          time: "15h00"
+        }
+      },
+      {
+        name: "Programaria",
+        //photo: "themes/yellow-swan/img/taty-barros.jpg",
+        //bio: "",
+        company: "Programaria",
+        // link: {
+        //   href: "http://github.com/stevie",
+        //   text: "@stevie"
+        // },
+        presentation: {
+          title: "Programaria",
+          description: "[Sala 1A] Duração: 1h.",
+          time: "15h30"
         }
       },
       {
         name: "Coffee-break",
-        time: "15h00"
+        time: "16h00"
       },
       {
-        name: "Mark Zuckerberg",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Facebook",
-        link: {
-          href: "http://twitter.com/zuck",
-          text: "@zuck"
-        },
+        name: "Encerramento",
+        //photo: "themes/yellow-swan/img/speaker.jpg",
+        // bio: "",
+        // company: "Facebook",
+        // link: {
+        //   href: "http://twitter.com/zuck",
+        //   text: "@zuck"
+        // },
         presentation: {
-          title: "Revealing Facebook Secrets",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-          time: "16h00"
-        }
-      },
-      {
-        name: "Steve Wozniak",
-        photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
-        company: "Apple, Inc.",
-        link: {
-          href: "http://twitter.com/woz",
-          text: "@woz"
-        },
-        presentation: {
-          title: "Why do I prefer Android over iPhone",
-          description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo",
+          title: "Encerramento",
+          description: "[Jardim] Roda de conversa: empreendedorismo e tecnologia (visão do ponto de vista da empreendedora vs. visão da executiva do mundo corporativo)",
           time: "17h00"
         }
+      },
+      {
+        name: "Show no jardim!",
+        time: "18h30"
       }
     ],
 
