@@ -43,8 +43,8 @@ module.exports = {
     sections: [
       'about',
       'location',
-      'speakers',
       'schedule',
+      'speakers',
       'sponsors',
       'partners',
       'by'
@@ -55,8 +55,8 @@ module.exports = {
     labels: {
       about: "Sobre",
       location: "Local",
-      speakers: "Palestrantes",
       schedule: "Agenda",
+      speakers: "Palestrantes",
       sponsors: "Patrocínio",
       partners: "Parceiros",
       by: "Organizado por"
