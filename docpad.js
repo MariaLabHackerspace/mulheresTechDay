@@ -86,7 +86,7 @@ module.exports = {
       },
       {
         name: "Gedeane Kenshima",
-        //photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/yellow-swan/img/gedeane.jpg",
         bio: "Gedeane Kenshima é engenheira de controle e automação, técnica em automação industria, ambos pelo IFSP. Trabalha como montadora na Tudela Indústria. Hobbista e maker, vem desenvolvendo projetos com arduíno em 2013 e wearables desde 2015. Os eletrônicos desenvolvidos são voltados para a área de moda e entretenimento.",
         company: "",
         // link: {
@@ -131,7 +131,7 @@ module.exports = {
       },
       {
         name: "Malu Andrade",
-        //photo: "themes/yellow-swan/img/amanda.jpg",
+        photo: "themes/yellow-swan/img/malu.jpg",
         bio: "Malu Andrade é coordenadora de Inovação da Spcine. Mestranda em arquivos audiovisuais em plataformas digitais pela USP e especialização em Estéticas Tecnológicas pela PUC. Trabalha com gestão cultural há 10 anos, tendo se dedicado desde 2010 a cultura digital.",
         company: "SP Cine (WUG)",
         // link: {
@@ -150,7 +150,7 @@ module.exports = {
       },
       {
         name: "Ariane Parra",
-        //photo: "themes/yellow-swan/img/speaker.jpg",
+        photo: "themes/yellow-swan/img/ariane.jpg",
         bio: "Ariane Parra da Women Up Games e Guz Forster da Experimentoria",
         company: "Women Up Games",
         // link: {
@@ -203,8 +203,8 @@ module.exports = {
         //   text: "@stevie"
         // },
         presentation: {
-          title: "Tatiana Barros",
-          description: "[Sala 1A] Apresentação focada nas escolhas profissionais com base no sistema de ensino atual. Como as meninas são preparadas e inspiradas e qual a disruptura no mercado quando ela cresce serão tópicos abordados. Duração: 30m.",
+          title: "O que você vai ser quando você crescer?",
+          description: "[Sala 1A] Apresentação focada nas escolhas profissionais com base no sistema de ensino atual. Sobre a raiz dos problemas do porque as mulheres não estão escolhendo a área de tecnologia. Como as meninas são preparadas e inspiradas e qual a disruptura no mercado quando ela cresce serão tópicos abordados. Duração: 30m.",
           time: "15h00"
         }
       },
