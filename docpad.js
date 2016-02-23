@@ -151,7 +151,7 @@ module.exports = {
       {
         name: "Ariane Parra",
         photo: "themes/yellow-swan/img/ariane.jpg",
-        bio: "Ariane Parra da Women Up Games e Guz Forster da Experimentoria",
+        bio: "CEO & Fundadora da Women Up Games. Apaixonada por games, influenciadora digital, empreendedora, designer de games e apaixonada por esse mundo. Formanda em Engenharia de Produção pela PUC-SP. Certificada em Gestão e Liderança pela Universidade de Pittsburgh, EUA (2009) em parceria com a Universidade Presbiteriana Mackenzie. É mentora de empreendedoras em eventos influentes de tecnologia, palestrante e participante ativa em painéis e debates favorecendo o empoderamento de mulheres através da tecnologia, representando a classe feminina no setor de games",
         company: "Women Up Games",
         // link: {
         //   href: "http://twitter.com/littlechuck",
@@ -184,7 +184,7 @@ module.exports = {
         bio: "Agile Coach na Lambda 3, trabalhou como desenvolvedora frontend nos últimos 7 anos. Formada em Sistemas para Internet pela UNIVALI, Especialista em Desenvolvimento Web pela UTFPR e Engenheira de Software pela FIAP, atuou em diferentes segmentos dentro do desenvolvimento frontend, como: ecommerce, acessibilidade e web design responsivo. Também faz parte da organização da Marialab Hackerspace, onde trabalha para a causa das mulheres na tecnologia e inclusão digital.",
         company: "Marialab",
         link: {
-          href: "http://github.com/vanessametonini",
+          href: "http://twitter.com/vanessametonini",
           text: "@vanessametonini"
         },
         presentation: {
