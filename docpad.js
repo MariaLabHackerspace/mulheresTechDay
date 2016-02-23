@@ -8,7 +8,7 @@ module.exports = {
     // Conference info
     conf: {
       name: "Mulheres Tech Day",
-      description: "Conference description",
+      description: " Mulheres Tech Day é um evento de tecnologia voltado para o público feminino de todas as idades.",
       date: "05 de Março de 2016",
       // If your event is free, just comment this line
       price: "entrada franca",
