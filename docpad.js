@@ -158,7 +158,7 @@ module.exports = {
         //   text: "@littlechuck"
         // },
         presentation: {
-          title: "Competição de Games (WUP)",
+          title: "Competição de Fliperama (Street Fighter)",
           description: "[Sala 2T] Quer se juntar a um monte de mulheres e jogar aquele game da infância e adolescência no fliperama? Então participe da competição de Street Fighter só para elas. Venha conhecer nosso arcade inteiramente montado por nós e saber das nossas Oficinas. Duração: 1h.",
           time: "13h30"
         }
@@ -173,7 +173,7 @@ module.exports = {
         //   text: "@stevie"
         // },
         presentation: {
-          title: "Ilustração para Games",
+          title: "Mostra de arte e Workshop de ilustração básica",
           description: "[Sala 1T] #Empoderadas é o nome desse workshop. Personagens femininas de games que foram criadas de forma sexualizada ou como \"donzelas\" serão desenhadas e transformadas, pela artista e ilustradora Bi Aguilart, em figuras humanizadas e empoderadas. Duração: 1h 30m.",
           time: "15h00"
         }
