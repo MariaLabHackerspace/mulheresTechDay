@@ -52,8 +52,9 @@ nav {
    HEADER
    ========================================================================== */
 .header {
-  padding: 90px 0 200px;
   text-align:center;
+
+  .wrapper { padding: 80px 0 210px; }
 }
 .logo-name {
   margin-bottom: .25em;
@@ -272,7 +273,10 @@ nav {
 @media only screen and (max-width : 480px) {
   /* nav */
   nav {display: none;}
-  .header {padding:20px 0;}
+  
+  .header .wrapper {
+    padding: 20px 0 100px;
+  }
   .logo-name {font-size: 4em;}
   .tagline {
     margin-bottom:15px;
