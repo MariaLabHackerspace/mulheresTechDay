@@ -1,5 +1,5 @@
 <!doctype html>
-<html itemscope itemtype="http://schema.org/Event">
+<html itemscope itemtype="http://schema.org/Event" lang="pt_BR">
 <head>
 
   <title itemprop="name"><%= @conf.name %></title>
@@ -17,6 +17,7 @@
   <meta property="og:title" content="<%= @conf.name %>">
   <meta property="og:description" content="<%= @conf.description %>">
   <meta property="og:image" content="<%= @getUrl() %>/<%= @getTheme() %>/img/badge.jpg">
+  <meta property="og:image:type" content="image/jpeg">
   <!-- / FACEBOOK -->
 
   <link rel="apple-touch-icon" sizes="57x57" href="themes/yellow-swan/img/apple-icon-57x57.png">
