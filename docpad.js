@@ -21,7 +21,7 @@ module.exports = {
     // The Call To Action button at the header,
     // If you don't want this, just remove the callToAction property.
     callToAction: {
-        text: "Inscreva-se!",
+        text: "Inscreva-se para participar do evento!",
         link: "https://www.eventbrite.com.br/e/mulheres-tech-day-tickets-22072708064"
     },
 
@@ -95,7 +95,7 @@ module.exports = {
         // },
         presentation: {
           title: "Arduíno para meninas",
-          description: "[Sala 3 Térreo] Nesse workshop serão apresentados conceitos básicos de programação voltado a experimentações em arduíno. A atividade, patrocinada pela Tato Equipamentos e pela GBK Robotics, é voltada para meninas e adolescentes a partir de 9 anos (8 vagas). Duração: 1h30m.",
+          description: "[Sala 3 Térreo] Nesse workshop organizado pelo MariaLab serão apresentados conceitos básicos de programação voltado a experimentações em arduíno. A atividade, patrocinada pela Tato Equipamentos e pela GBK Robotics, é voltada para meninas e adolescentes a partir de 9 anos (8 vagas). Duração: 1h30m.",
           time: "10h30"
         }
       },
@@ -132,7 +132,7 @@ module.exports = {
       {
         name: "Malu Andrade",
         photo: "themes/yellow-swan/img/malu.jpg",
-        bio: "Malu Andrade é coordenadora de Inovação da Spcine. Mestranda em arquivos audiovisuais em plataformas digitais pela USP e especialização em Estéticas Tecnológicas pela PUC. Trabalha com gestão cultural há 10 anos, tendo se dedicado desde 2010 a cultura digital.",
+        bio: "Malu Andrade é coordenadora de Inovação da SpCine. Mestranda em arquivos audiovisuais em plataformas digitais pela USP e especialização em Estéticas Tecnológicas pela PUC. Trabalha com gestão cultural há 10 anos, tendo se dedicado desde 2010 a cultura digital.",
         company: "SPCine",
         // link: {
         //   href: "http://github.com/billy95",
@@ -140,12 +140,12 @@ module.exports = {
         // },
         presentation: {
           title: "Políticas públicas e gênero feminino nos games",
-          description: "[Sala 1o Andar] A palestra abordará os seguintes temas: Política de inovação da SPcine - LEIA e política para games. Políticas públicas para games no Brasil. Participação da mulher no audiovisual no país. Duração: 30m.",
-          time: "11h00"
+          description: "[Sala 1o Andar] A palestra abordará os seguintes temas: Política de inovação da SpCine - LEIA e política para games. Políticas públicas para games no Brasil. Participação da mulher no audiovisual no país. Duração: 30m.",
+          time: "11h30"
         }
       },
       {
-        name: "Almoço",
+        name: "Break",
         time: "12h00"
       },
       {
@@ -159,7 +159,7 @@ module.exports = {
         // },
         presentation: {
           title: "Competição de Fliperama (Street Fighter)",
-          description: "[Sala 2 Térreo] Quer se juntar a um monte de mulheres e jogar aquele game da infância e adolescência no fliperama? Então participe da competição de Street Fighter só para elas. Venha conhecer nosso arcade inteiramente montado por nós e saber das nossas Oficinas. Duração: 1h.",
+          description: "[Sala 2 Térreo] Quer se juntar a um monte de mulheres e jogar aquele game da infância e adolescência no fliperama? Então participe da competição de Street Fighter só para elas. Venha conhecer nosso arcade inteiramente montado por nós e saber das nossas Oficinas. Duração: 1h30",
           time: "13h30"
         }
       },
@@ -174,7 +174,7 @@ module.exports = {
         // },
         presentation: {
           title: "Mostra de arte e Workshop de ilustração básica",
-          description: "[Sala 1 Térreo] #Empoderadas é o nome desse workshop. Personagens femininas de games que foram criadas de forma sexualizada ou como \"donzelas\" serão desenhadas e transformadas, pela artista e ilustradora Bi Aguilart, em figuras humanizadas e empoderadas. Duração: 1h 30m.",
+          description: "[Sala 1 Térreo] #Empoderadas é o nome desse workshop. Personagens femininas de games que foram criadas de forma sexualizada ou como \"donzelas\" serão desenhadas e transformadas, pela artista e ilustradora Bi Aguilart, em figuras humanizadas e empoderadas. Duração: 1h30",
           time: "15h00"
         }
       },
@@ -209,23 +209,23 @@ module.exports = {
         }
       },
       {
-        name: "Programaria",
+        name: "Iana Chan",
         //photo: "themes/yellow-swan/img/taty-barros.jpg",
-        //bio: "",
+        bio: "Iana Chan é jornalista e fundadora da PrograMaria, iniciativa que tem a missão de empoderar mulheres por meio da tecnologia e da programação. Também é Community Manager na Liga Ventures.",
         company: "Programaria",
         // link: {
         //   href: "http://github.com/stevie",
         //   text: "@stevie"
         // },
         presentation: {
-          title: "Programaria",
-          description: "[Sala 1A] Duração: 1h.",
+          title: "Campanha #SerMulherEmTech",
+          description: "[Sala 1o Andar] Ser mulher é um desafio imenso. Ser mulher na área de tecnologia traz algumas dificuldades peculiares. Nessa conversa vamos discutir as barreiras que afastam as mulheres da área e o que precisa ser feito para mudar esse cenário. Duração: 40 min.",
           time: "15h30"
         }
       },
       {
-        name: "Coffee-break",
-        time: "16h00"
+        name: "PyLadies e o que é Python",
+        time: "16h20"
       },
       {
         name: "Encerramento",
