@@ -132,7 +132,7 @@ module.exports = {
       {
         name: "Malu Andrade",
         photo: "themes/yellow-swan/img/malu.jpg",
-        bio: "Malu Andrade é coordenadora de Inovação da SpCine. Mestranda em arquivos audiovisuais em plataformas digitais pela USP e especialização em Estéticas Tecnológicas pela PUC. Trabalha com gestão cultural há 10 anos, tendo se dedicado desde 2010 a cultura digital.",
+        bio: "Malu Andrade é coordenadora de Inovação da SpCine. Mestranda em arquivos audiovisuais em plataformas digitais pela USP e especialização em Estéticas Tecnológicas pela PUC. Trabalha com gestão cultural há 10 anos, tendo se dedicado à cultura digital desde 2010.",
         company: "SPCine",
         // link: {
         //   href: "http://github.com/billy95",
