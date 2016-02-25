@@ -88,7 +88,7 @@ module.exports = {
         name: "Gedeane Kenshima",
         photo: "themes/yellow-swan/img/gedeane.jpg",
         bio: "Gedeane Kenshima é engenheira de controle & automação e técnica em automação industrial, ambos pelo IFSP. Trabalha como montadora na Tudela Indústria. Hobbista e maker, vem desenvolvendo projetos com arduíno desde 2013 e wearables desde 2015. Os eletrônicos desenvolvidos são voltados para a área de moda e entretenimento.",
-        company: "",
+        company: "Marialab",
         // link: {
         //   href: "http://github.com/billy95",
         //   text: "@billy95"
@@ -118,7 +118,7 @@ module.exports = {
         name: "Amanda Gomes Pinheiro",
         photo: "themes/yellow-swan/img/amanda.jpg",
         bio: "Amanda Gomes Pinheiro é fundadora da AMG Inovação, Comunicação e Desenvolvimento, empresa que atua no desenvolvimento de empreendedores e líderes em todo o Brasil.Formada em Administração de Empresas, com pós-graduacão em Varejo pela Fia USP e MBA em Estratégia Empresarial, é também especialista em comportamento humano e coach. Abriu sua primeira empresa aos 21 anos e liderou funções estratégicas ao longo de 18 anos em grandes empresas de segmentos como tecnologia da informação, telecom, indústria, finanças e varejo.",
-        company: "",
+        company: "AMG Inovação",
         // link: {
         //   href: "http://github.com/billy95",
         //   text: "@billy95"
@@ -224,8 +224,14 @@ module.exports = {
         }
       },
       {
-        name: "PyLadies e o que é Python",
-        time: "16h20"
+        name: "PyLadies",
+        bio: "",
+        company: "Pyladies",
+        presentation: {
+          title: "PyLadies e o que é Python",
+          description: "Iremos apresentar o que é o projeto PyLadies, o que é Python e as diversas funcionalidades que podemos realizar com essa linguagem. Duração: 30m",
+          time: "16h20"
+        }
       },
       {
         name: "Encerramento",
