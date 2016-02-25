@@ -224,9 +224,14 @@ module.exports = {
         }
       },
       {
-        name: "PyLadies",
-        bio: "",
+        name: "Alini Ramos",
+        photo: "themes/yellow-swan/img/alini.jpg",
+        bio: "desenvolvedora de software hà 7 anos, técnica em Informática e bacharel em Ciência da Computação.Também é Co-organizadora do PyLadies São Paulo.",
         company: "Pyladies",
+        link: {
+          href: "http://about.me/alini_x",
+          text: "@alini_x"
+        }, 
         presentation: {
           title: "PyLadies e o que é Python",
           description: "Iremos apresentar o que é o projeto PyLadies, o que é Python e as diversas funcionalidades que podemos realizar com essa linguagem. Duração: 30m",
