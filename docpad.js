@@ -210,7 +210,7 @@ module.exports = {
       },
       {
         name: "Iana Chan",
-        //photo: "themes/yellow-swan/img/taty-barros.jpg",
+        photo: "themes/yellow-swan/img/iana.jpg",
         bio: "Iana Chan é jornalista e fundadora da PrograMaria, iniciativa que tem a missão de empoderar mulheres por meio da tecnologia e da programação. Também é Community Manager na Liga Ventures.",
         company: "Programaria",
         // link: {
