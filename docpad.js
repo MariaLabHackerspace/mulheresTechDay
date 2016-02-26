@@ -71,7 +71,7 @@ module.exports = {
       },
       {
         name: "Dulcelina Xavier",
-        photo: "themes/yellow-swan/img/denise.jpg",
+        photo: "themes/yellow-swan/img/dulcelina.jpg",
         bio: "Secretaria-Adjunta Dulcelina Xavier e representantes dos grupos vencedores do Prêmio Mulheres Tech em Sampa",
         company: "Dulcelina Xavier/ SMPM",
         // link: {
