@@ -70,17 +70,17 @@ module.exports = {
         time: "9h00"
       },
       {
-        name: "Denise Motta Dau",
+        name: "Dulcelina Xavier",
         photo: "themes/yellow-swan/img/denise.jpg",
-        bio: "Secretaria Denise Motta Dau e representantes dos grupos vencedores do Prêmio Mulheres Tech em Sampa",
-        company: "Denise Motta Dau/ SMPM",
+        bio: "Secretaria-Adjunta Dulcelina Xavier e representantes dos grupos vencedores do Prêmio Mulheres Tech em Sampa",
+        company: "Dulcelina Xavier/ SMPM",
         // link: {
         //   href: "http://twitter.com/linus",
         //   text: "@linus"
         // },
         presentation: {
           title: "Palestra de abertura",
-          description: "[Jardim] A Secretaria da Secretaria Municipal de Políticas para as Mulheres abre o evento e apresenta os projetos vencedores da 2a edição do Prêmio Mulheres Tech em Sampa. Duração: 1h",
+          description: "[Jardim] A Secretaria-Adjunta da Secretaria Municipal de Políticas para as Mulheres abre o evento e apresenta os projetos vencedores da 2a edição do Prêmio Mulheres Tech em Sampa. Duração: 1h",
           time: "09h30"
         }
       },
@@ -95,7 +95,7 @@ module.exports = {
         // },
         presentation: {
           title: "Arduíno para meninas",
-          description: "[Sala 3 Térreo] Nesse workshop organizado pelo MariaLab serão apresentados conceitos básicos de programação voltado a experimentações em arduíno. A atividade, patrocinada pela Tato Equipamentos e pela GBK Robotics, é voltada para meninas e adolescentes a partir de 9 anos (8 vagas). Duração: 1h30m.",
+          description: "[Sala 3 Térreo] Nesse workshop organizado pelo MariaLab serão apresentados conceitos básicos de programação voltado a experimentações em arduíno. A atividade, patrocinada pela Tato Equipamentos e pela GBK Robotics, é voltada para meninas e adolescentes a partir de 9 anos. As participantes devem levar o próprio notebook e levarão para casa os eletrônicos recebidos (8 vagas). Duração: 1h30m.",
           time: "10h30"
         }
       },
@@ -117,7 +117,7 @@ module.exports = {
       {
         name: "Amanda Gomes Pinheiro",
         photo: "themes/yellow-swan/img/amanda.jpg",
-        bio: "Amanda Gomes Pinheiro é fundadora da AMG Inovação, Comunicação e Desenvolvimento, empresa que atua no desenvolvimento de empreendedores e líderes em todo o Brasil.Formada em Administração de Empresas, com pós-graduacão em Varejo pela Fia USP e MBA em Estratégia Empresarial, é também especialista em comportamento humano e coach. Abriu sua primeira empresa aos 21 anos e liderou funções estratégicas ao longo de 18 anos em grandes empresas de segmentos como tecnologia da informação, telecom, indústria, finanças e varejo.",
+        bio: "Amanda Gomes Pinheiro é fundadora da AMG Inovação, Comunicação e Desenvolvimento, empresa que atua no desenvolvimento de empreendedores e líderes em todo o Brasil. Formada em Administração de Empresas, com pós-graduacão em Varejo pela Fia USP e MBA em Estratégia Empresarial, é também especialista em comportamento humano e coach. Abriu sua primeira empresa aos 21 anos e liderou funções estratégicas ao longo de 18 anos em grandes empresas de segmentos como tecnologia da informação, telecom, indústria, finanças e varejo.",
         company: "AMG Inovação",
         // link: {
         //   href: "http://github.com/billy95",
@@ -189,7 +189,7 @@ module.exports = {
         },
         presentation: {
           title: "Workshop de Web Design",
-          description: "[Sala 3 Térreo] O que é? Como ingressar na carreira? Como montar meu site? Duração: 2h.",
+          description: "[Sala 3 Térreo] O que é? Como ingressar na carreira? Como montar meu site? As interessadas devem levar notebook para participar (8 vagas). Duração: 2h",
           time: "15h00"
         }
       },
