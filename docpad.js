@@ -178,21 +178,21 @@ module.exports = {
           time: "15h00"
         }
       },
-      {
-        name: "Vanessa Tonini",
-        photo: "themes/yellow-swan/img/vanessa.jpg",
-        bio: "Agile Coach na Lambda 3, trabalhou como desenvolvedora frontend nos últimos 7 anos. Formada em Sistemas para Internet pela UNIVALI, Especialista em Desenvolvimento Web pela UTFPR e Engenheira de Software pela FIAP, atuou em diferentes segmentos dentro do desenvolvimento frontend, como: ecommerce, acessibilidade e web design responsivo. Também faz parte da organização da Marialab Hackerspace, onde trabalha para a causa das mulheres na tecnologia e inclusão digital.",
-        company: "Marialab",
-        link: {
-          href: "http://twitter.com/vanessametonini",
-          text: "@vanessametonini"
-        },
-        presentation: {
-          title: "Workshop de Web Design",
-          description: "[Sala 3 Térreo] O que é? Como ingressar na carreira? Como montar meu site? As interessadas devem levar notebook para participar (8 vagas). Duração: 2h",
-          time: "15h00"
-        }
-      },
+      // {
+      //   name: "Vanessa Tonini",
+      //   photo: "themes/yellow-swan/img/vanessa.jpg",
+      //   bio: "Agile Coach na Lambda 3, trabalhou como desenvolvedora frontend nos últimos 7 anos. Formada em Sistemas para Internet pela UNIVALI, Especialista em Desenvolvimento Web pela UTFPR e Engenheira de Software pela FIAP, atuou em diferentes segmentos dentro do desenvolvimento frontend, como: ecommerce, acessibilidade e web design responsivo. Também faz parte da organização da Marialab Hackerspace, onde trabalha para a causa das mulheres na tecnologia e inclusão digital.",
+      //   company: "Marialab",
+      //   link: {
+      //     href: "http://twitter.com/vanessametonini",
+      //     text: "@vanessametonini"
+      //   },
+      //   presentation: {
+      //     title: "Workshop de Web Design",
+      //     description: "[Sala 3 Térreo] O que é? Como ingressar na carreira? Como montar meu site? As interessadas devem levar notebook para participar (8 vagas). Duração: 2h",
+      //     time: "15h00"
+      //   }
+      // },
       {
         name: "Tatiana Barros",
         photo: "themes/yellow-swan/img/taty-barros.jpg",
