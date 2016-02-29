@@ -72,7 +72,7 @@ module.exports = {
       {
         name: "Dulcelina Xavier",
         photo: "themes/yellow-swan/img/dulcelina.jpg",
-        bio: "Secretaria-Adjunta Dulcelina Xavier e representantes dos grupos vencedores do Prêmio Mulheres Tech em Sampa",
+        bio: "Formada em Ciências Sociais, pela Fundação de Santo André – Santo André/SP. Atuou nos últimos cinco anos em gestão de políticas públicas para as mulheres, tendo desenvolvido assessorias nas áreas de enfrentamento à violência doméstica, violência sexual, direitos sexuais e direitos reprodutivos. Atuou da década de 90 até 2008 no movimento de mulheres, na área de direitos sexuais e direitos reprodutivos como integrante de organizações da sociedade civil. Integra a Coordenação do Curso de Promotoras Legais Populares de São Bernardo do Campo.",
         company: "Dulcelina Xavier/ SMPM",
         // link: {
         //   href: "http://twitter.com/linus",
