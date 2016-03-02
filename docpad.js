@@ -178,6 +178,22 @@ module.exports = {
           time: "15h00"
         }
       },
+      {
+        name: "Gedeane Kenshima",
+        photo: "themes/yellow-swan/img/gedeane.jpg",
+        bio: "Gedeane Kenshima é engenheira de controle & automação e técnica em automação industrial, ambos pelo IFSP. Trabalha como montadora na Tudela Indústria. Hobbista e maker, vem desenvolvendo projetos com arduíno desde 2013 e wearables desde 2015. Os eletrônicos desenvolvidos são voltados para a área de moda e entretenimento.",
+        company: "Marialab",
+        // link: {
+        //   href: "http://github.com/billy95",
+        //   text: "@billy95"
+        // },
+        presentation: {
+          title: "Arduíno para mulheres",
+          description: "[Sala 3 Térreo] Nesse workshop organizado pelo MariaLab serão apresentados conceitos básicos de programação voltado a experimentações em arduíno. As participantes devem levar o próprio notebook e levarão para casa os eletrônicos recebidos (8 vagas). Duração: 1h30m.",
+          time: "15h00"
+        }
+
+      },
       // {
       //   name: "Vanessa Tonini",
       //   photo: "themes/yellow-swan/img/vanessa.jpg",
@@ -231,7 +247,7 @@ module.exports = {
         link: {
           href: "http://about.me/alini_x",
           text: "@alini_x"
-        }, 
+        },
         presentation: {
           title: "PyLadies e o que é Python",
           description: "Iremos apresentar o que é o projeto PyLadies, o que é Python e as diversas funcionalidades que podemos realizar com essa linguagem. Duração: 30m",
@@ -239,17 +255,17 @@ module.exports = {
         }
       },
       {
-        name: "Encerramento",
+        name: "Mariana Vasconcelos, Rosi Rodrigues, Tânia Gomes",
         //photo: "themes/yellow-swan/img/speaker.jpg",
-        // bio: "",
+        bio: "Agrosmart, Iugu, 33 e 34",
         // company: "Facebook",
         // link: {
         //   href: "http://twitter.com/zuck",
         //   text: "@zuck"
         // },
         presentation: {
-          title: "Encerramento",
-          description: "[Jardim] Roda de conversa: empreendedorismo e tecnologia (visão do ponto de vista da empreendedora vs. visão da executiva do mundo corporativo)",
+          title: "Painel: Como empreender no setor de tecnologia: conheça histórias de empreendedoras de sucesso",
+          description: "[Jardim] Roda de conversa: empreendedorismo e tecnologia (visão do ponto de vista da empreendedora vs. visão da executiva do mundo corporativo). Mediadora: Rosely Cruz, Neolaw",
           time: "17h00"
         }
       },
