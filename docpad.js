@@ -189,7 +189,7 @@ module.exports = {
         // },
         presentation: {
           title: "Arduíno para mulheres",
-          description: "[Sala 3 Térreo] Nesse workshop organizado pelo MariaLab serão apresentados conceitos básicos de programação voltado a experimentações em arduíno. As participantes devem levar o próprio notebook e levarão para casa os eletrônicos recebidos (8 vagas). Duração: 1h30m.",
+          description: "[Sala 3 Térreo] Nesse workshop organizado pelo MariaLab serão apresentados conceitos básicos de programação voltado a experimentações em arduíno. As participantes devem levar o próprio notebook (8 vagas). Duração: 1h30m.",
           time: "15h00"
         }
 
