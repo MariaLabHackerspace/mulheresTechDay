@@ -255,7 +255,7 @@ module.exports = {
         }
       },
       {
-        name: "Rosi Rodrigues (Iugu), Tânia Gomes (33 e 34)",
+        name: "Rosi Rodrigues (Iugu), Tânia Gomes (33 e 34), Luciana Coletti (Love Mondays)",
         //photo: "themes/yellow-swan/img/speaker.jpg",
         bio: "",
         // company: "Facebook",
