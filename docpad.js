@@ -255,9 +255,9 @@ module.exports = {
         }
       },
       {
-        name: "Mariana Vasconcelos, Rosi Rodrigues, Tânia Gomes",
+        name: "Rosi Rodrigues, Tânia Gomes",
         //photo: "themes/yellow-swan/img/speaker.jpg",
-        bio: "Agrosmart, Iugu, 33 e 34",
+        bio: "Iugu, 33 e 34",
         // company: "Facebook",
         // link: {
         //   href: "http://twitter.com/zuck",
@@ -265,7 +265,7 @@ module.exports = {
         // },
         presentation: {
           title: "Painel: Como empreender no setor de tecnologia: conheça histórias de empreendedoras de sucesso",
-          description: "[Jardim] Roda de conversa: empreendedorismo e tecnologia (visão do ponto de vista da empreendedora vs. visão da executiva do mundo corporativo).",
+          description: "[Jardim] Roda de conversa: empreendedorismo e tecnologia (visão do ponto de vista da empreendedora vs. visão da executiva do mundo corporativo). Mediadora: Renata Leal, Revista PEGN",
           time: "17h00"
         }
       },
