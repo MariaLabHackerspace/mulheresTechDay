@@ -42,7 +42,7 @@
   <meta name="theme-color" content="#ffffff">
 
   <!-- STYLES -->
-  <link rel="stylesheet" type="text/css" href="<%= @getTheme() %>/css/main.css">
+  <link rel="stylesheet" type="text/css" href="<%= @getTheme() %>/css/main.css?v=1">
   <!-- / STYLES -->
 
 </head>
