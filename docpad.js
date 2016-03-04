@@ -265,7 +265,7 @@ module.exports = {
         // },
         presentation: {
           title: "Painel: Como empreender no setor de tecnologia: conheça histórias de empreendedoras de sucesso",
-          description: "[Jardim] Roda de conversa: empreendedorismo e tecnologia (visão do ponto de vista da empreendedora vs. visão da executiva do mundo corporativo). Mediadora: Rosely Cruz, Neolaw",
+          description: "[Jardim] Roda de conversa: empreendedorismo e tecnologia (visão do ponto de vista da empreendedora vs. visão da executiva do mundo corporativo).",
           time: "17h00"
         }
       },
