@@ -265,7 +265,7 @@ module.exports = {
         // },
         presentation: {
           title: "Como empreender no setor de tecnologia: conheça histórias de empreendedoras de sucesso",
-          description: "[Jardim] Roda de conversa: empreendedorismo e tecnologia (visão do ponto de vista da empreendedora vs. visão da executiva do mundo corporativo). Mediadora: Renata Leal, Revista PEGN",
+          description: "[Jardim] Roda de conversa entre as empreendedoras Luciana Coletti (Love Mondays), Rosi Rodrigues (Iugu) e Tânia Gomes (33e34). Mediadora: Renata Leal, Revista PEGN",
           time: "17h00"
         }
       },
