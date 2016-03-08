@@ -270,8 +270,19 @@ module.exports = {
         }
       },
       {
-        name: "Show no jardim!",
-        time: "18h30"
+        name: "Luana Hansen",
+        photo: "themes/yellow-swan/img/luana.jpg",
+        bio: "Sonoplasta, DJ, MC, Freestyle, técnica de áudio, produtora musical",
+        company: "DJ Luana Hansen",
+        link: {
+          href: "https://soundcloud.com/luanahansen",
+          text: "@DJ_Luana"
+        },
+        presentation: {
+          title: "Show no Jardim!",
+          description: "[Jardim] Show com a DJ Luana Hansen!",
+          time: "18h30"
+        }
       }
     ],
 
